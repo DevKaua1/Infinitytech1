@@ -1,4 +1,4 @@
 package Sistemageral.Dominio;
 
-public class produto {
+public class Funcionario {
 }
