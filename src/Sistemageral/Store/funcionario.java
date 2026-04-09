@@ -1,4 +1,4 @@
-package Sistemageral.Dominio.Store;
+package Sistemageral.Store;
 
 public class funcionario {
 }
